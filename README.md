@@ -56,11 +56,11 @@ source("plot2.R")
 source("plot3.R")
 
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-![plot 3 produced](plot2.png)
+![plot 3 produced](plot3.png)
 
 ### Plot 4 (expected / created)
 
 source("plot4.R")
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-![plot 4 produced](plot2.png)
+![plot 4 produced](plot4.png)
